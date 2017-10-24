@@ -1,3 +1,8 @@
+#### Name: [Buddhi Adhikari](https://github.com/LordDraagonLive)
+ - Place: Divulapitiya, Gampha, Sri Lanka
+ - Bio: Computer Science @ University Of Westminster
+ - GitHub: [LordDraagonLive](https://github.com/LordDraagonLive)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
